@@ -1,14 +1,27 @@
-# leetcode-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🎯 My Daily LeetCode Dashboard
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/hava-haivan/leetcode-solutions/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/hava-haivan/leetcode-solutions/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
+A curated repository of my algorithmic solutions, automatically synced from LeetCode and refined with deep conceptual analysis.
+
+---
+
+## 📊 Quick Statistics
+
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Updated |
+| :---: | :---: | :---: | :---: | :---: |
+| **01** | 01 | 00 | 00 | 2026 |
+
+---
+
+## 📂 Progress Directory by Topic
+
+### 🔢 Arrays & Hashing
+* 🟢 [0001 - Two Sum](./0001-two-sum) — *Solved using Brute Force & Hash Map optimization.*
+
+### 🛠️ Linked Lists
+* *Upcoming solutions...*
+
+### 🧠 Dynamic Programming
+* *Upcoming solutions...*
+
+---
+*Generated and tracked via automated sync infrastructure. Refined manually for logic depth.*
