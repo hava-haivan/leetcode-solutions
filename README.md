@@ -32,4 +32,16 @@ A curated repository of my algorithmic solutions, automatically synced from Leet
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hava-haivan/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/hava-haivan/leetcode-solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/hava-haivan/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/hava-haivan/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
