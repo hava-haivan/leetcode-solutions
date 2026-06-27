@@ -32,13 +32,16 @@ A curated repository of my algorithmic solutions, automatically synced from Leet
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hava-haivan/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/hava-haivan/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hava-haivan/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/hava-haivan/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hava-haivan/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hava-haivan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hava-haivan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/hava-haivan/leetcode-solutions/tree/master/0242-valid-anagram) |
